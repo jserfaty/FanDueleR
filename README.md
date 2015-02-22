@@ -1,0 +1,2 @@
+# FanDueleR
+FanDuel Lineup Generator
